@@ -43,7 +43,7 @@ sudo pip install scapy netifaces colorama --break-system-packages
 ## ⚙️ Instalação
 
 ```bash
-git clone https://github.com/nanoxsec/mirage.git
+git clone https://github.com/nanxsec/mirage.git
 cd mirage
 sudo python3 mirage.py
 ```
