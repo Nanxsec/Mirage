@@ -231,4 +231,4 @@ Esta ferramenta foi desenvolvida **exclusivamente** para:
 - [x] Múltiplas vítimas com threads independentes
 - [x] Captura e análise de tráfego em tempo real
 - [x] Restauração automática do ARP
-- [x] Menu interativo estilo hacker
+- [x] Menu interativo 
