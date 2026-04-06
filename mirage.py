@@ -226,7 +226,7 @@ def main():
         print_menu(iface, gateway, local_ip, spoofer)
 
         try:
-            opt = input(f"{Fore.YELLOW}  phantom-arp > {Style.RESET_ALL}").strip()
+            opt = input(f"{Fore.YELLOW}  mirage-arp > {Style.RESET_ALL}").strip()
         except KeyboardInterrupt:
             opt = "0"
 
