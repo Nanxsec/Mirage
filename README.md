@@ -48,6 +48,18 @@ cd mirage
 sudo python3 mirage.py
 ```
 
+### Para iniciar o script:
+
+```bash
+
+1 - escaneie a rede
+2 - selecione o host que será a vitima
+3 - inicie o ip forwarding
+4 - inicie a captura
+
+Ao der ENTER, você reseta o terminal por uns segundos e ao digitar 8 você da stop e volta tudo
+ao normal!
+
 ---
 
 ## 🧠 Como Funciona
