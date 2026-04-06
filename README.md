@@ -59,7 +59,7 @@ sudo python3 mirage.py
 
 Ao der ENTER, você reseta o terminal por uns segundos e ao digitar 8 você da stop e volta tudo
 ao normal!
-
+``
 ---
 
 ## 🧠 Como Funciona
